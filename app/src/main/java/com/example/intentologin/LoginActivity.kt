@@ -53,7 +53,7 @@ class LoginActivity : AppCompatActivity() {
             }else{
 
                 if(cbRecordarUsuario.isChecked){
-                    Log.i("TODO","Funcionalidad de recordar usuario y contraseña")
+                    Log.i("TODO","Funcionalidad CAMBIOSSSSSSSSSSSSSSSSSSSSSSS de recordar usuario y contraseña")
                 }
                 val intent = Intent(this,MainActivity::class.java)
                 intent.putExtra("NOMBRE",usuario)
